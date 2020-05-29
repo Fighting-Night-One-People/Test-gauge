@@ -29,3 +29,9 @@ step("Search for <query>", async (query) => {
 step("Page contains <content>", async (content) => {
     assert.ok(await text(content).exists());
 });
+
+step("GitHubSearch",async()=>{
+    await goto("baidu.com");
+    await write("github");
+    //await click("百度一下");
+});
