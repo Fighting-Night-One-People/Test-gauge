@@ -9,3 +9,7 @@ To execute this specification, use
 * Goto getgauge github page
 * Search for "Taiko"
 * Page contains "getgauge/taiko"
+
+## Test case
+
+* GitHubSearch
